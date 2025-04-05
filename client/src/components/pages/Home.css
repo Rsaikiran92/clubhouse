@@ -1,0 +1,21 @@
+.btn{
+    font-family: Nunito, sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+}
+.btn:hover{
+    color: #dd6b20;
+}
+.btn2{
+    border: 2px solid black;
+    color: black;
+    font-family: Nunito, sans-serif;
+    font-weight: 800;
+    font-size: 16px;
+    border-radius: 50px;
+    padding:30px;
+}
+.btn2:hover{
+    background-color: black;
+    color: white;
+}

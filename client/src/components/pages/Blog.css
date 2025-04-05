@@ -1,0 +1,31 @@
+.blog {
+  padding-left: 220px;
+  padding-right: 220px;
+  padding-top: 50px;
+  margin-bottom: 100px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+}
+
+.blog > div {
+  background-color: white;
+  border-radius: 30px;
+  height: 500px;
+  text-align: left;
+  transition: transform 0.3s ease-in-out;
+}
+
+.blog > div:hover {
+
+  transform: translateY(-10px);
+}
+
+.blog > div > h2 {
+  font-family: "Nunito", sans-serif;
+  padding: 25px;
+  font-size: 25px;
+  /* font-weight: 300;
+    font-size: 20px;
+    line-height: 30px; */
+}

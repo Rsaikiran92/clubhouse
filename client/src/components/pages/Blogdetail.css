@@ -1,0 +1,15 @@
+.blogtext{
+    font-family: Nunito, sans-serif;
+    font-weight: 300;
+    line-height: 33px;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h2{
+    font-family: Nunito, sans-serif;
+    font-weight: 800;
+    line-height: 33px;
+    font-size: 40px;
+}
